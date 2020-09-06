@@ -2,5 +2,5 @@
 Project code for Python 2
 
 # icon creation
-This will be the first semester project.... creating an icon.  
+This will be the first semester project.... creating an icon and manipulate it. 
 
